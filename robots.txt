@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://logycon.github.io/rcv-safety-record/sitemap.xml
